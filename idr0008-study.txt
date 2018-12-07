@@ -9,7 +9,7 @@ Study Description	Although a large number of actin-binding proteins and their re
 Study Organism	Drosophila melanogaster	Homo sapiens																																																		
 Study Organism Term Source REF	NCBITaxon	NCBITaxon																																																		
 Study Organism Term Accession Number	NCBITaxon_7227	NCBITaxon_9606																																																		
-Study Screens Number	3																																																			
+Study Screens Number	2																																																			
 Study External URL																																																				
 Study Public Release Date																																																				
 																																																				
