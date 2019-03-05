@@ -4,11 +4,11 @@ Comment[IDR Study Accession]	idr0008
 Study Title	Comparative RNAi screening identifies a conserved core metazoan actinome by phenotype																																																			
 Study Type	high content screen																																																			
 Study Type Term Source REF	EFO																																																			
-Study Type Term Accession Number	EFO_0007550																																																			
+Study Type Term Accession	EFO_0007550																																																			
 Study Description	Although a large number of actin-binding proteins and their regulators have been identified through classical approaches, gaps in our knowledge remain. Here, we used genome-wide RNA interference as a systematic method to define metazoan actin regulators based on visual phenotype. Using comparative screens in cultured Drosophila and human cells, we generated phenotypic profiles for annotated actin regulators together with proteins bearing predicted actin-binding domains. These phenotypic clusters for the known metazoan "actinome" were used to identify putative new core actin regulators, together with a number of genes with conserved but poorly studied roles in the regulation of the actin cytoskeleton, several of which we studied in detail. This work suggests that although our search for new components of the core actin machinery is nearing saturation, regulation at the level of nuclear actin export, RNA splicing, ubiquitination, and other upstream processes remains an important but unexplored frontier of actin biology.																																																			
 Study Organism	Drosophila melanogaster	Homo sapiens																																																		
 Study Organism Term Source REF	NCBITaxon	NCBITaxon																																																		
-Study Organism Term Accession Number	NCBITaxon_7227	NCBITaxon_9606																																																		
+Study Organism Term Accession	NCBITaxon_7227	NCBITaxon_9606																																																		
 Study Screens Number	2																																																			
 Study External URL																																																				
 Study Public Release Date																																																				
@@ -49,7 +49,7 @@ Screen Imaging Method Term Source REF	Fbbi
 Screen Imaging Method Term Accession	FBbi_00000246																																																			
 Screen Technology Type	RNAi screen																																																			
 Screen Technology Term Source REF	EFO																																																			
-Screen Technology Term Accession Number	EFO_0007551																																																			
+Screen Technology Term Accession	EFO_0007551																																																			
 Screen Type	primary screen																																																			
 Screen Type Term Source REF	EFO																																																			
 Screen Type Term Accession	EFO_0007556																																																			
@@ -60,19 +60,19 @@ Library File Name	idr0008-screenA-library.txt
 Library File Format	tab-delimited text																																																			
 Library Type	siRNA library																																																			
 Library Type Term Source REF	EFO																																																			
-Library Type Term Accession Number	EFO_0007564																																																			
+Library Type Term Accession	EFO_0007564																																																			
 Library Manufacturer																																																				
 Library Version																																																				
 Library Experimental Conditions	none																																																			
 Library Experimental Conditions Term Source REF																																																				
-Library Experimental Conditions Term Accession Number																																																				
+Library Experimental Conditions Term Accession																																																				
 Quality Control Description																																																				
 																																																				
 # Protocols																																																				
 Protocol Name	growth protocol	HCS library protocol	HCS image acquistion and feature extraction protocol	HCS data analysis protocol																																																
 Protocol Type	growth protocol	HCS library protocol	HCS image acquistion and feature extraction protocol	HCS data analysis protocol																																																
 Protocol Type Term Source REF	EFO																																																			
-Protocol Type Term Accession Number	EFO_0003789																																																			
+Protocol Type Term Accession	EFO_0003789																																																			
 Protocol Description	Adherent S2R+ Drosophila cells were cultured at 24C in a humidified incubator in T25 flasks in Shields and Sang M3 insect medium (Sigma-Aldrich) supplemented with FBS and antibiotics as for HeLa cells.	The genome-wide screen was performed at the Drosophila RNAi Screening Center (Harvard Medical School, Boston, MA) using a library of 21,306 distinct dsRNAs (See Table S1 for primer details) targeting 12,061 protein-coding genes.  In brief, a semi-automated method was used to seed 10 ul of a trypsinized suspension of S2R+ cells at a concentration of 2 x 106 cells/ml in serum-free M3 medium into black, thin-bottomed 384-well tissue culture plates (Corning) already containing a 3-ul droplet of dsRNA (_0.3 ug). After a 30-min incubation at room temperature, wells were supplemented with 30 ul of complete M3 medium. All manipulations were performed with an alcohol-sterilized WellMate liquid-handling robot inside a tissue culture hood. Plates were spun briefly, sealed with parafilm, and incubated in a 25C humidified incubator for 5 d before being processed: using a semi-automated method with the WellMate robot, cells were fixed with freshly prepared 4% formaldehyde in PBS for 20 min at room temperature, permeabilized with 0.2% Triton X-100 in PBS for 5 min, then blocked with 5% BSA in PBS for 30 min. Next, cells were stained with a mixture of FITC-conjugated anti-alpha-tubulin antibody (clone DM1A at 1:400; Sigma-Aldrich), TRITC-conjugated phalloidin (0.125 ug/ml; Sigma-Aldrich), and DAPI (1 ug/ml; Sigma-Aldrich) in a PBS solution containing 1% BSA for 1 h. After 4x washing with PBS, plates were sealed with adhesive foil and stored in PBS containing 0.1% sodium azide (Sigma-Aldrich).	Images were acquired using a 20x objective lens (NA 0.45) on a modified Eclipse TE-2000E microscope (Nikon) equipped with a Prior Proscan motorized stage and MetaMorph software (Molecular Devices), autofocusing on the DAPI channel. Images were screened visually using the MetaMorph 'Review Screen Data' application. The uploaded .tif files were converted from 16-bit to 8-bit but were otherwise unprocessed.	The fly cell screen was performed once, and three independent researchers visually inspected images captured from two sites per well to nominate potential hits with morphology phenotypes of any description. We filtered the set of nominated hits to exclude dsRNAs with (1) >1 predicted amplicon; (2) one or more CAN repeats (a stretch of a particular trinucleotide sequence [CAn] repeated five or more times, which is known to cause nonspecific effects (Echeverri et al., 2006)); (3) >5 predicted off-target effects (19 bp; Echeverri et al., 2006); and (4) no known protein-encoding gene target according to FlyBase version 5.23 (http://flybase.org; Table S1). Images from the remaining dsRNAs were then annotated using a controlled vocabulary to describe phenotypes affecting cell number, cell size, and all aspects of nuclear and cytoskeletal morphology. DsRNAs with weak or inconsistent phenotypes (defined as present in only one of the two sites) were excluded from this analysis. In inspecting this refined list of dsRNAs associated with morphological phenotypes (see hit annotation details in Table S2), we found that when multiple dsRNAs targeting the same gene were annotated as hits, a similar range of phenotypes was recorded, demonstrating the robustness of the method.																																																
 																																																				
 																																																				
@@ -117,7 +117,7 @@ Screen Imaging Method Term Source REF	Fbbi
 Screen Imaging Method Term Accession	FBbi_00000246																																																			
 Screen Technology Type	RNAi screen																																																			
 Screen Technology Term Source REF	EFO																																																			
-Screen Technology Term Accession Number	EFO_0007551																																																			
+Screen Technology Term Accession	EFO_0007551																																																			
 Screen Type	secondary screen																																																			
 Screen Type Term Source REF	EFO																																																			
 Screen Type Term Accession	EFO_0007557																																																			
@@ -128,19 +128,19 @@ Library File Name	idr0008-screenB-library.txt
 Library File Format	tab-delimited text																																																			
 Library Type	siRNA library																																																			
 Library Type Term Source REF	EFO																																																			
-Library Type Term Accession Number	EFO_0007564																																																			
+Library Type Term Accession	EFO_0007564																																																			
 Library Manufacturer	Thermo Fisher Scientific/Dharmacon																																																			
 Library Version																																																				
 Library Experimental Conditions	none																																																			
 Library Experimental Conditions Term Source REF																																																				
-Library Experimental Conditions Term Accession Number																																																				
+Library Experimental Conditions Term Accession																																																				
 Quality Control Description																																																				
 																																																				
 # Protocols																																																				
 Protocol Name	growth protocol	HCS library protocol	HCS image acquistion and feature extraction protocol	HCS data analysis protocol																																																
 Protocol Type	growth protocol	HCS library protocol	HCS image acquistion and feature extraction protocol	HCS data analysis protocol																																																
 Protocol Type Term Source REF	EFO																																																			
-Protocol Type Term Accession Number	EFO_0003789																																																			
+Protocol Type Term Accession	EFO_0003789																																																			
 Protocol Description	HeLa-Kyoto human carcinoma cells were cultured at 37C in a humidified incubator under 5% CO2 in 9-cm dishes in DME (Invitrogen) supplemented with 10% fetal bovine serum (FBS, PAA) and antibiotics (50 U/ml penicillin and 50 ug/ml streptomycin; Invitrogen).	For the human screens, we used a computational approach to nominate actin- and Rho GTPase-related genes to create the 'actinome' library. The actinome library contained (1) genes with known actin cytoskeleton association; (2) genes with predicted actin-binding domains; and (3) Rho family GTPases, GAPs, and GEFs. We also determined the human orthologues of Drosophila actin morphology hits by comparing orthologue assignments from Homologene (http://www.ncbi.nlm.nih.gov/homologene), Inparanoid (http://inparanoid.sbc.su.se/cgi-bin/index.cgi), and Ensembl (http://www.ensembl.org/index.html). Synthetic siRNAs for all target genes were obtained from Thermo Fisher Scientific/Dharmacon (Table S3). For controls, we included multiple instances of the following four Thermo Fisher Scientific controls: siCONTROL (a scrambled negative-control siRNA sequence); INCENP and KIF11, which give strong and distinctive phenotypes; and siTOX, an siRNA reagent that induces cell death. All siRNAs were reconstituted in nuclease-free water in 1x buffer provided by the manufacturer. Each human gene was targeted using four independent siRNAs, each individually assessed in four separate wells, and, for genes in the actinome, with the addition of a fifth well containing those four siRNAs pooled together.The entire screen was performed in duplicate. For HeLa cell screens, siRNAs were arrayed into the Corning screening plates at a final concentration of 0.5 uM (3 ul) using both individual siGENOME duplexes and SmartPools (Thermo Fisher Scientific) using a Biomek Fx robotic liquid-handling robot (Beckman Coulter), sealed with foil adhesives and stored at -40C until use. Trypsinized HeLa cells (2,000 cells per well) without antibiotics were reverse transfected with Lipofectamine 2000 (Invitrogen) according to the manufacturer's instructions at a final volume of 80 ul (final siRNA concentration of 25 nM). All transfection manipulations were performed sterilely as described for S2R+ cells, and the plates were spun briefly to eliminate any bubbles and incubated at 37C in a humidified incubator under 5% CO2 for 3 d before processing as for the fly screen	Images were acquired using a 20x objective lens (NA 0.45) on a modified Eclipse TE-2000E microscope (Nikon) equipped with a Prior Proscan motorized stage and MetaMorph software (Molecular Devices), autofocusing on the DAPI channel. Images were screened visually using the MetaMorph 'Review Screen Data' application. The uploaded .tif files were converted from 16-bit to 8-bit but were otherwise unprocessed.	The entire screen was performed in duplicate, and images (three sites per well) from both screens were loaded into FLIGHT. Images were annotated by two independent researchers blinded to well designations; although we assessed the same general phenotypic categories as with the fly screen, we used more extensive sub-descriptions to reflect the greater detail visible in these cells. Genes were considered hits if at least two independent siRNA constructs were identified as strong morphological hits with similar phenotypes in both screen replicates by both researchers.																																																
 																																																				
 																																																				
