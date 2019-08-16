@@ -16,7 +16,7 @@ Study Public Release Date	2016-04-27
 # Study Publication																																																				
 Study PubMed ID	21893601																																																			
 Study Publication Title	Comparative RNAi screening identifies a conserved core metazoan actinome by phenotype.																																																			
-Study Author List	Rohn JL, Sims D, Liu T, Fedorova M, Schock F, Dopie J, Vartiainen MK, Kiger AA, Perrimon N, Baum B.																																																			
+Study Author List	Rohn JL, Sims D, Liu T, Fedorova M, Schöck F, Dopie J, Vartiainen MK, Kiger AA, Perrimon N, Baum B																																																			
 Study PMC ID	PMC3171124																																																			
 Study DOI	http://dx.doi.org/10.1083/jcb.201103168																																																			
 																																																				
